@@ -1,0 +1,19 @@
+@import "./utility";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  background: url("../images/bg.jpg") no-repeat center center/cover;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
