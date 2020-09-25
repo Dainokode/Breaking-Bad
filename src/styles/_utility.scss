@@ -6,3 +6,16 @@
   overflow: hidden;
   padding: 0 1rem;
 }
+
+// center logo (header)
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 2rem;
+
+  img {
+    width: 25%;
+  }
+}
